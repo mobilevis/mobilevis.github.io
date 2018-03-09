@@ -19,7 +19,7 @@ The following table shows a preliminary schedule on how our workshop will be org
 | **11.00 - 12.20** 	| Participants’ presentations (x8) 	    | 80 min. 	|
 | **12.20 - 12.30** 	| *Group formation*                    	| 10 min. 	|
 | **12.30 - 14.00** 	| *Lunch (at restaurant)*              	| 90 min. 	|
-| **14.00 - 14.45** 	| Demos and Hall of Fame / Shame      	| 45 min. 	|
+| **14.00 - 14.45** 	| Demos + Hall of Fame / Shame        	| 45 min. 	|
 | **14.45 - 15.30** 	| Affinity diagramming                	| 45 min. 	|
 | **15.30 - 16.00** 	| *Coffee break*                        | 30 min. 	|
 | **16.00 - 17.00** 	| Envisioning & design                	| 60 min. 	|
@@ -37,6 +37,8 @@ The afternoon session will continue with a creative envisioning & design session
 The official part of the workshop will conclude with a brief summary discussion. We plan to organize a joint dinner to further socialize and continue discussions and networking.
 
 ## Accepted Workshop Papers
+
+*Note: PDF final versions of these papers will be posted here as before the workshop.*
 
 **Hierarchical Graphs on Mobile Devices: A Lane-based Approach**
 <br>Tom Horak and Raimund Dachselt *(Interactive Media Lab, Technische Universität Dresden)*
