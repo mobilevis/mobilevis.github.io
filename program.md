@@ -16,16 +16,16 @@ The following table shows a preliminary schedule on how our workshop will be org
 | **08.40 - 09.00** 	| Opening and introduction            	| 20 min. 	|
 | **09.00 - 10.30** 	| Participants’ presentations (x9)   	  | 90 min. 	|
 | **10.30 - 11.00** 	| *Coffee break*                        | 30 min. 	|
-| **11.00 - 12.20** 	| Participants’ presentations (x8) 	    | 90 min. 	|
+| **11.00 - 12.20** 	| Participants’ presentations (x8) 	    | 80 min. 	|
 | **12.20 - 12.30** 	| *Group formation*                    	| 10 min. 	|
 | **12.30 - 14.00** 	| *Lunch (at restaurant)*              	| 90 min. 	|
 | **14.00 - 14.45** 	| Demos and Hall of Fame / Shame      	| 45 min. 	|
 | **14.45 - 15.30** 	| Affinity diagramming                	| 45 min. 	|
 | **15.30 - 16.00** 	| *Coffee break*                        | 30 min. 	|
-| **16.00 - 17.00** 	| Envisioning & design                	| 30 min. 	|
+| **16.00 - 17.00** 	| Envisioning & design                	| 60 min. 	|
 | **17.00 - 17.30** 	| Group results & reflection           	| 30 min. 	|
-| **17.30 - 18.00** 	| Next steps and closing        	      | 15 min. 	|
-| **18.00 - 20.00** 	| Dinner (optional)             	      | 15 min. 	|
+| **17.30 - 18.00** 	| Next steps and closing        	      | 30 min. 	|
+| **18.00 - 20.00** 	| Dinner (optional)             	      | 120 min. 	|
 
 <br>
 After an opening, the morning session allows all participants to briefly introduce themselves by means of short paper and position statement presentations. We will begin with two sessions of 7-minute presentations (+2 minutes Q+A) from the authors of accepted papers. 
