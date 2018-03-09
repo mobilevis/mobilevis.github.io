@@ -12,4 +12,4 @@ The **Data Visualization on Mobile Devices workshop at CHI 2018** is intended to
 - *How can we address these challenges?*
 - *What are new and exciting ways to use mobile devices for data visualization?*
 
-This workshop will bring participants with diverse backgrounds together to identify the most pressing mobile visualization challenges that evolve out of practice and to establish opportunities for future collaboration. 
+This workshop will bring participants with diverse backgrounds together to identify the most pressing mobile visualization challenges that evolve out of practice and to establish opportunities for future collaboration. To see what we have planned, check out our **[Program](/program)**.
