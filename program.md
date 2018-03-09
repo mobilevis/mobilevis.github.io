@@ -14,20 +14,21 @@ The following table shows a preliminary schedule on how our workshop will be org
 | **Time** 	          | Activity            	                | Duration 	|
 |------------------   |-------------------------------------	|---------	|
 | **08.40 - 09.00** 	| Opening and introduction            	| 20 min. 	|
-| **09.00 - 10.30** 	| Participants’ Presentations (x9)   	  | 90 min. 	|
+| **09.00 - 10.30** 	| Participants’ presentations (x9)   	  | 90 min. 	|
 | **10.30 - 11.00** 	| *Coffee break*                        | 30 min. 	|
-| **11.00 - 12.20** 	| Participants’ Presentations (x8) 	    | 90 min. 	|
-| **12.20 - 12.30** 	| *Group Formation*                    	| 10 min. 	|
+| **11.00 - 12.20** 	| Participants’ presentations (x8) 	    | 90 min. 	|
+| **12.20 - 12.30** 	| *Group formation*                    	| 10 min. 	|
 | **12.30 - 14.00** 	| *Lunch (at restaurant)*              	| 90 min. 	|
 | **14.00 - 14.45** 	| Demos and Hall of Fame / Shame      	| 45 min. 	|
-| **14.45 - 15.30** 	| Envisioning & design (group work)   	| 45 min. 	|
+| **14.45 - 15.30** 	| Affinity diagramming                	| 45 min. 	|
 | **15.30 - 16.00** 	| *Coffee break*                        | 30 min. 	|
-| **16.00 - 16.45** 	| Group results & reflection          	| 30 min. 	|
-| **16.45 - 17.45** 	| Breakout session & brainstorming    	| 60 min. 	|
-| **17.45 - 18.00** 	| Workshop wrap-up and closing        	| 15 min. 	|
+| **16.00 - 17.00** 	| Envisioning & design                	| 30 min. 	|
+| **17.00 - 17.30** 	| Group results & reflection           	| 30 min. 	|
+| **17.30 - 18.00** 	| Next steps and closing        	      | 15 min. 	|
+| **18.00 - 20.00** 	| Dinner (optional)             	      | 15 min. 	|
 
 <br>
-After an opening, the morning session allows all participants to briefly introduce themselves by means of short paper and position statement presentations. To avoid the semblance of a small conference, we encourage short 10-minute presentations for individual contributions. 
+After an opening, the morning session allows all participants to briefly introduce themselves by means of short paper and position statement presentations. We will begin with two sessions of 7-minute presentations (+2 minutes Q+A) from the authors of accepted papers. 
 
 After a joint lunch, which allows participants to meet and network informally, the workshop will continue with hands-on experiences in a relaxed demo atmosphere. Short demonstrations of different forms of prototypes, including sketches, case studies, and implementations (solicited from workshop participants and industry), will foster a discussion of state-of-the-art design and implementation approaches.
 
@@ -50,7 +51,7 @@ The official part of the workshop will conclude with a brief summary discussion.
 <br>Adam Bradley *(University of Ontario Institute of Technology)*, Victor Sawal *(University of Ontario Institute of Technology)*, Sheelagh Carpendale *(University of Calgary)*, and Christopher Collins *(University of Ontario Institute of Technology)*
 
 **Using ICDMI Model to Guide the Design of Mobile Tool to Support the Care and Treatment of Type-2 Diabetes and Discordant Chronic Conditions**
-<br>Tom Ongwere, Kay Connelly, and Erik Stolterman Bergqvist *(Indiana University Bloomington)*
+<br>Tom Ongwere, Kay Connelly, and Erik Stolterman Bergqvist *(University of Indiana, Bloomington)*
 
 **Visualizing Diabetes data in Mobile contexts**
 <br>Nick Dalton *(Northumbria University)* and Dimtri Katz *(The Open University)*
@@ -65,7 +66,7 @@ The official part of the workshop will conclude with a brief summary discussion.
 <br>Tanja Blascheck *(Inria, Université Paris Saclay)*, Anastasia Bezerianos *(Inria, CNRS, Université Paris)*, Lonni Besancon *(Université Paris Saclay)*, Bongshin Lee *(Microsoft)*, and Petra Isenberg *(Inria, Université Paris Saclay)*
 
 **Investigating Link Attributes of Graph Visualizations in Mobile Augmented Reality**
-<br>Wolfgang Büschel, Stefan Vogt, and Raimund Dachselt *(Interactive Media Lab, Technische Universität Dresden, Germany)*
+<br>Wolfgang Büschel, Stefan Vogt, and Raimund Dachselt *(Interactive Media Lab, Technische Universität Dresden)*
 
 **Displaying NHP Health Data in Mobile Devices**
 <br>Daniel Nicolalde, Clay Stevens, and Gabriel Gottfredsen *(Wisconsin National Primate Center)*
