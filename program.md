@@ -55,6 +55,9 @@ The official part of the workshop will conclude with a brief summary discussion.
 **Using ICDMI Model to Guide the Design of Mobile Tool to Support the Care and Treatment of Type-2 Diabetes and Discordant Chronic Conditions**
 <br>Tom Ongwere, Kay Connelly, and Erik Stolterman Bergqvist *(University of Indiana, Bloomington)*
 
+**Visualizing High Performance Computing Resources on Mobile Devices**
+<br>Janet Knowles, Michael Papka, and Joseph Insley *(Argonne National Laboratory)*
+
 **Visualizing Diabetes data in Mobile contexts**
 <br>Nick Dalton *(Northumbria University)* and Dimtri Katz *(The Open University)*
 
@@ -72,6 +75,9 @@ The official part of the workshop will conclude with a brief summary discussion.
 
 **Displaying NHP Health Data in Mobile Devices**
 <br>Daniel Nicolalde, Clay Stevens, and Gabriel Gottfredsen *(Wisconsin National Primate Center)*
+
+**Towards a Unified Visualization Platform for Ubiquitous Analytics**
+<br>Sriram Karthik Badam *(University of Maryland)*, Roman Rädle *(Aarhus University)*, Clemens Nylandsted Klokmose *(Aarhus University)*, and Niklas Elmqvist *(University of Maryland)*
 
 **Facilitating Spreadsheet Manipulation on Mobile Devices Leveraging Speech**
 <br>Arjun Srinivasan *(Georgia Institute of Technology)*, Bongshin Lee *(Microsoft)*, and John Stasko *(Georgia Institute of Technology)*
