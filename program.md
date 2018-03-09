@@ -38,7 +38,7 @@ The official part of the workshop will conclude with a brief summary discussion.
 
 ## Accepted Workshop Papers
 
-*Note: PDF final versions of these papers will be posted here as before the workshop.*
+*Note: PDF final versions of these papers will be posted here after the camera-ready deadline (April 6th).*
 
 **Hierarchical Graphs on Mobile Devices: A Lane-based Approach**
 <br>Tom Horak and Raimund Dachselt *(Interactive Media Lab, Technische Universität Dresden)*
@@ -83,4 +83,4 @@ The official part of the workshop will conclude with a brief summary discussion.
 <br>Michel Pahud *(Microsoft)*, Eyal Ofek *(Microsoft)*, Nathalie Henry Riche *(Microsoft)*, Christophe Hurter *(ENAC)*, and Jens Grubert *(Coburg University of Applied Sciences)*
 
 **Combining Ideation and Journaling to Explore to New Possibilities for Visualization on Mobile Devices**
-<br>Katherine Currier, Søren Knudsen, Miriam Sturdee and Sheelagh Carpendale *(University of Calgary)*
+<br>Katherine Currier, Søren Knudsen, Miriam Sturdee, and Sheelagh Carpendale *(University of Calgary)*
