@@ -43,11 +43,11 @@ permalink: /program/
 **[Investigating Link Attributes of Graph Visualizations in Mobile Augmented Reality](../assets/mobilevis2018_paper_12.pdf)**
 <br>Wolfgang Büschel, Stefan Vogt, and Raimund Dachselt *(Interactive Media Lab, Technische Universität Dresden)*
 
-**[Displaying NHP Health Data in Mobile Devices](../assets/mobilevis2018_paper_13.pdf)**
-<br>Daniel Nicolalde, Clay Stevens, and Gabriel Gottfredsen *(Wisconsin National Primate Center)*
-
-**[Towards a Unified Visualization Platform for Ubiquitous Analytics](../assets/mobilevis2018_paper_14.pdf)**
+**[Towards a Unified Visualization Platform for Ubiquitous Analytics](../assets/mobilevis2018_paper_13.pdf)**
 <br>Sriram Karthik Badam *(University of Maryland)*, Roman Rädle *(Aarhus University)*, Clemens Nylandsted Klokmose *(Aarhus University)*, and Niklas Elmqvist *(University of Maryland)*
+
+**[Displaying NHP Health Data in Mobile Devices](../assets/mobilevis2018_paper_14.pdf)**
+<br>Daniel Nicolalde, Clay Stevens, and Gabriel Gottfredsen *(Wisconsin National Primate Center)*
 
 **[Facilitating Spreadsheet Manipulation on Mobile Devices Leveraging Speech](../assets/mobilevis2018_paper_15.pdf)**
 <br>Arjun Srinivasan *(Georgia Institute of Technology)*, Bongshin Lee *(Microsoft)*, and John Stasko *(Georgia Institute of Technology)*
