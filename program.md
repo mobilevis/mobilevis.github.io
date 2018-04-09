@@ -75,9 +75,9 @@ The following table shows a preliminary schedule on how our workshop will be org
 | **08.40 - 09.00** 	| Opening and introduction            	| 20 min. 	|
 | **09.00 - 10.30** 	| Participants’ presentations (x9)   	  | 90 min. 	|
 | **10.30 - 11.00** 	| *Coffee break*                        | 30 min. 	|
-| **11.00 - 12.20** 	| Participants’ presentations (x8) 	    | 80 min. 	|
-| **12.20 - 12.30** 	| *Group formation*                    	| 10 min. 	|
-| **12.30 - 14.00** 	| *Lunch (at restaurant)*              	| 90 min. 	|
+| **11.00 - 12.30** 	| Participants’ presentations (x9) 	    | 90 min. 	|
+| **12.30 - 12.40** 	| *Group formation*                    	| 10 min. 	|
+| **12.40 - 14.00** 	| *Lunch (at restaurant)*              	| 90 min. 	|
 | **14.00 - 14.45** 	| Demos + Hall of Fame / Shame        	| 45 min. 	|
 | **14.45 - 15.30** 	| Affinity diagramming                	| 45 min. 	|
 | **15.30 - 16.00** 	| *Coffee break*                        | 30 min. 	|
