@@ -29,7 +29,7 @@ permalink: /program/
 <br>Janet Knowles, Michael Papka, and Joseph Insley *(Argonne National Laboratory)*
 
 **[Visualizing Diabetes data in Mobile contexts](../assets/mobilevis2018_paper_8.pdf)**
-<br>Nick Dalton *(Northumbria University)* and Dimtri Katz *(The Open University)*
+<br>Nick Dalton *(Northumbria University)* and Dmitri Katz *(The Open University)*
 
 **[Gamifying Data Visualizations on Mobile Devices](../assets/mobilevis2018_paper_9.pdf)**
 <br>Noopur Agarwal and Alark Joshi *(University of San Francisco)*
