@@ -61,6 +61,8 @@ permalink: /program/
 **[Combining Ideation and Journaling to Explore to New Possibilities for Visualization on Mobile Devices](../assets/mobilevis2018_paper_19.pdf)**
 <br>Katherine Currier, Søren Knudsen, Miriam Sturdee, and Sheelagh Carpendale *(University of Calgary)*
 
+**[Ai2html and Its Impact on the News Graphics Industry](../assets/mobilevis2018_paper_20.pdf)**
+<br>Cedric Sam *(Bloomberg LP)*
 
 ## Workshop Schedule
 
