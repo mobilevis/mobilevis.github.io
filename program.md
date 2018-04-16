@@ -22,7 +22,7 @@ permalink: /program/
 **[Textension: Digitally Augmenting Analog Texts Using Mobile Devices](../assets/mobilevis2018_paper_5.pdf)**
 <br>__Adam Bradley__ *(University of Ontario Institute of Technology)*, Victor Sawal *(University of Ontario Institute of Technology)*, __Sheelagh Carpendale__ *(University of Calgary)*, and Christopher Collins *(University of Ontario Institute of Technology)*
 
-**[Visualizing High Performance Computing Resources on Mobile Devices](../assets/mobilevis2018_paper_7.pdf)**
+**[From Supercomputer to Smartphone: Visualizing High-Performance Computing Resources on Mobile Devices](../assets/mobilevis2018_paper_7.pdf)**
 <br>__Janet Knowles__, Michael Papka, and Joseph Insley *(Argonne National Laboratory)*
 
 **[Ai2html and Its Impact on the News Graphics Industry](../assets/mobilevis2018_paper_20.pdf)**
