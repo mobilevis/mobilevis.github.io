@@ -14,7 +14,7 @@ permalink: /program/
 **[Hierarchical Graphs on Mobile Devices: A Lane-based Approach](../assets/mobilevis2018_paper_1.pdf)**
 <br>__Tom Horak__ and __Raimund Dachselt__ *(Interactive Media Lab, Technische Universität Dresden)*
 
-**[Challenges of Running In-Situ Studies for Mobile Visualizations](../assets/mobilevis2018_paper_2.pdf)**
+**[Product Fingerprints: Studying Mobile Visualizations In-Situ](../assets/mobilevis2018_paper_2.pdf)**
 <br>__Kevin Ta__ *(University of Calgary)*, __Jo Vermeulen__ *(Aarhus University)*, Lora Oehlberg *(University of Calgary)*, and __Sheelagh Carpendale__ *(University of Calgary)*
 
 **[Responsive Visualisation](../assets/mobilevis2018_paper_4.pdf)**
