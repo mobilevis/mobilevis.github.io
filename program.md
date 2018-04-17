@@ -77,7 +77,7 @@ The following table shows a preliminary schedule on how our workshop will be org
 
 | **Time** 	          | Activity            	                | Duration 	|
 |------------------   |-------------------------------------	|---------	|
-| **08.45 - 09.00** 	| Opening and introduction            	| 15 min. 	|
+| **08.45 - 09.00** 	| **[Welcome and introduction](https://aka.ms/mobilevis-intro)**            	| 15 min. 	|
 | **09.00 - 10.30** 	| Paper presentations (x9): Session 1   | 90 min. 	|
 | **10.30 - 11.00** 	| *Coffee break*                        | 30 min. 	|
 | **11.00 - 12.30** 	| Paper presentations (x9): Session 2   | 90 min. 	|
@@ -92,7 +92,7 @@ The following table shows a preliminary schedule on how our workshop will be org
 | **18.00 - 20.00** 	| Dinner (optional)             	      | 120 min. 	|
 
 <br>
-After an opening, the morning session allows all participants to briefly introduce themselves by means of short paper and position statement presentations. We will begin with two sessions of 7-minute presentations (+2 minutes Q+A) from the authors of accepted papers. 
+After a [welcome and introduction by the organizers](https://aka.ms/mobilevis-intro), the morning session allows all participants to briefly introduce themselves by means of short paper and position statement presentations. We will begin with two sessions of 7-minute presentations (+2 minutes Q+A) from the authors of accepted papers. 
 
 Each presentation should include the following: 
 -	**Intro**: Short intro of the presenter (and co-authors, if present), background and research interest 
