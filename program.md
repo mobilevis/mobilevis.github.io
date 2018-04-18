@@ -29,7 +29,7 @@ permalink: /program/
 <br>__Cedric Sam__ *(Bloomberg LP)*
 
 **[Using ICDMI Model to Guide the Design of Mobile Tool to Support the Care and Treatment of Type-2 Diabetes and Discordant Chronic Conditions](../assets/mobilevis2018_paper_6.pdf)**
-<br>Tom Ongwere, Kay Connelly, and Erik Stolterman Bergqvist *(University of Indiana, Bloomington)*
+<br>__Tom Ongwere__, Kay Connelly, and Erik Stolterman Bergqvist *(University of Indiana, Bloomington)*
 
 **[Visualizing Diabetes data in Mobile contexts](../assets/mobilevis2018_paper_8.pdf)**
 <br>Nick Dalton *(Northumbria University)* and Dmitri Katz *(The Open University)*
