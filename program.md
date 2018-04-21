@@ -89,7 +89,7 @@ The following table shows a preliminary schedule on how our workshop will be org
 | **16.00 - 17.00** 	| Envisioning & design                	| 60 min. 	|
 | **17.00 - 17.30** 	| Group results & reflection           	| 30 min. 	|
 | **17.30 - 18.00** 	| Next steps and closing        	      | 30 min. 	|
-| **18.00 - 20.00** 	| Dinner (optional)             	      | 120 min. 	|
+| **19.00 - 21.00** 	| *Dinner (at **[Mad Hatter, 1240 Crescent](https://goo.gl/maps/7614vnML61J2)**)* | 120 min. 	|
 
 <br>
 After a [welcome and introduction by the organizers](https://aka.ms/mobilevis-intro), the morning session allows all participants to briefly introduce themselves by means of short paper and position statement presentations. We will begin with two sessions of 7-minute presentations (+2 minutes Q+A) from the authors of accepted papers. 
