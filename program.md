@@ -83,7 +83,7 @@ The following table shows a preliminary schedule on how our workshop will be org
 | **11.00 - 12.30** 	| Paper presentations (x9): Session 2   | 90 min. 	|
 | **12.30 - 12.40** 	| *Group formation / **[walk to restaurant](https://goo.gl/maps/pkvAbz5JzJu)***| 10 min. 	|
 | **12.40 - 14.00** 	| *Lunch (at **[Universel restaurant](https://goo.gl/maps/pkvAbz5JzJu)**)*              	| 80 min. 	|
-| **14.00 - 14.45** 	| Demos + [Hall of Fame / Shame](https://aka.ms/mobile-fame-shame)       	| 45 min. 	|
+| **14.00 - 14.45** 	| Demos + **[Hall of Fame / Shame](https://aka.ms/mobile-fame-shame)**       	| 45 min. 	|
 | **14.45 - 15.30** 	| Affinity diagramming                	| 45 min. 	|
 | **15.30 - 16.00** 	| *Coffee break*                        | 30 min. 	|
 | **16.00 - 17.00** 	| Envisioning & design                	| 60 min. 	|
