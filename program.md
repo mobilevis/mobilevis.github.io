@@ -78,8 +78,8 @@ The following table shows a preliminary schedule on how our workshop will be org
 | **Time** 	          | Activity            	                | Duration 	|
 |------------------   |-------------------------------------	|---------	|
 | **08.45 - 09.00** 	| Opening and introduction            	| 15 min. 	|
-| **09.00 - 10.30** 	| Paper presentations (x9): Session 1   | 90 min. 	|
-| **10.30 - 11.00** 	| *Coffee break*                        | 30 min. 	|
+| **09.00 - 10.40** 	| Paper presentations (x9): Session 1   | 100 min. 	|
+| **10.40 - 11.00** 	| *Coffee break*                        | 20 min. 	|
 | **11.00 - 12.30** 	| Paper presentations (x9): Session 2   | 90 min. 	|
 | **12.30 - 12.40** 	| *Group formation*                    	| 10 min. 	|
 | **12.40 - 14.00** 	| *Lunch (at restaurant)*              	| 90 min. 	|
