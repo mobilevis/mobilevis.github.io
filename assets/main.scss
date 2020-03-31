@@ -2,21 +2,93 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@charset "utf-8";
+$content-width: 1100px !default;
 
 // Variables to modify font folders
-$fa-font-path:        "../fonts/font-awesome";
+$fa-font-path: "../fonts/font-awesome";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "font-awesome/font-awesome";
 
 @import "minima";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,600');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,600");
 
-body { font: 400 16px/1.5 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; }
+body {
+  font: 400 16px/1.5 "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #111;
+  background-color: #fdfdfd;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+}
 
-.site-title { font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 600; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+.site-title {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 54px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+}
 
-.footer-heading {
-  display: none;
+.workshop-title {
+  color: #085dad;
+  font-weight: bold;
+}
+
+.passed {
+  color: darkolivegreen;
+}
+
+.teaser {
+  width: 90%;
+  padding-bottom: 20px;
+}
+
+.footer-links {
+  font-size: 13px;
+  margin-bottom: $spacing-unit / 4;
+}
+
+a.page-link {
+  &.active {
+    color: darkslategrey;
+    font-weight: bold;
+  }
+}
+
+@media (max-width: 900px) {
+  .organizer-thumbnail {
+    display: none;
+  }
+
+  .organizer-bio {
+    padding-left: 3em;
+  }
+}
+
+.organizer-item {
+  line-height: 1.5em;
+  display: block;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 50px;
+
+  .organizer-thumbnail {
+    img {
+      width: 160px;
+      border-radius: 80px;
+    }
+
+    padding-left: 3em;
+    padding-right: 1em;
+  }
+
+  .organizer-bio {
+    width: 80%;
+  }
 }

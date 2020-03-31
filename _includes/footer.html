@@ -1,0 +1,13 @@
+<footer class="site-footer h-card {% if page.blackfooter %}site-footer-black{% endif %}">
+  <data class="u-url" href="{{ "/" | relativize_url }}"></data>
+
+  <div class="wrapper">
+    <p class="footer-links">
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a> |
+      <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a> |
+      <a href="https://{{ site.slack_workspace }}.slack.com">Sign into {{ site.slack_workspace }} Slack Workspace</a> | 
+      <a href="https://join.slack.com/t/{{ site.slack_workspace }}/shared_invite/zt-42or1bf8-5FvABnFqquoKxGCCNLy0Aw">Join {{ site.slack_workspace }} Slack Workspace</a>
+    </p>
+  </div>
+
+</footer>
